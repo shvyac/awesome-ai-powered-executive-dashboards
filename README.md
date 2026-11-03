@@ -41,6 +41,7 @@ Enterprise BI and analytics products with natural-language Q&A, generative repor
 - [Omni Analytics](https://omni.co/) - Modern BI with a governed semantic layer and AI-assisted querying for shared metric definitions.
 - [Domo](https://www.domo.com/) - Cloud BI / dashboard platform with AI features for exploration and operational reporting; now part of Progress Software (acquisition of Domo's AI and data platform business completed Sep 2026).
 - [Zoho Analytics (Ask Zia)](https://www.zoho.com/analytics/) - SME-friendly BI with natural-language asking and automated insights.
+- [arcodash](https://www.arcodash.com/) - SQL dashboards that check their own numbers: ask in plain English or write SQL, and data checks (freshness, row count, null rate) alert in Slack with an AI explanation of what broke. Bring your own AI key; unlimited seats, from $59/month.
 
 ---
 
